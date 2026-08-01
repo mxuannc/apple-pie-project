@@ -309,7 +309,7 @@ onUnmounted(() => {
                   </div>
                   <div>
                       <span class="font-bold">填寫報名表單：</span>
-                      <p>建議預留 15 分鐘填寫，表單將於8/16（日）截止！</p>
+                      <p>建議預留 15 分鐘填寫，表單將於 8/16（日）截止！</p>
                   </div>
                 </li>
                 <li>
@@ -318,7 +318,7 @@ onUnmounted(() => {
                   </div>
                   <div>
                       <span class="font-bold">錄取通知：</span>
-                      <p>我們將會在8/17（一）寄送錄取、備取通知信。</p>
+                      <p>我們將會在 8/17（一）寄送錄取、備取通知信。</p>
                   </div>
                 </li>
                 <li>

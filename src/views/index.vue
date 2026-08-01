@@ -1173,7 +1173,8 @@ input#menu {
   position: relative;
   z-index: 10;
   width: 100%;
-  height: 150px;
+  min-height: 150px;
+  padding: 2rem 0;
   background-color: rgb(51 51 51);
   display: flex;
   justify-content: space-between;

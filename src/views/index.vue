@@ -836,7 +836,7 @@ input#menu {
 .zone2 {
   background-color: #ebe0d1;
   border-radius: 80px 80px 0 0;
-  padding: 4rem 5rem 25rem;
+  padding: 4rem 5rem 14rem;
   margin-top: -5rem;
   position: relative;
 }
@@ -858,7 +858,7 @@ input#menu {
   position: absolute;
   right: 50%;
   transform: translateX(55%) ;
-  bottom: 80px;
+  bottom: 40px;
   margin-top: 1rem;
   width: 20%;
   z-index: 2;
@@ -1269,7 +1269,7 @@ input#menu {
   }
 
   .zone2 {
-    padding-bottom: 21rem;
+    padding-bottom: 12rem;
   }
 
   .zone3>p {
@@ -1391,7 +1391,7 @@ input#menu {
   }
 
   .zone2 {
-    padding-bottom: 16rem;
+    padding-bottom: 9rem;
   }
 
   .zone3 {

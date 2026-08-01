@@ -141,7 +141,7 @@ onUnmounted(() => {
 
             <span style="font-weight: 700; font-style: italic; font-size: 1.8rem;">這些問題的答案，將決定你未來過得快不快樂。</span><br><br>
 
-            <span style="font-size: 0.85rem; color: #9ca3af;">引用自：<a href="https://mrjamie.cc/2026/03/16/get-to-know-yourself/" target="_blank" style="color: inherit; text-decoration: underline; font-size: inherit;">林之晨〈認識你自己〉</a></span>
+            <span style="font-size: 0.85rem; color: #9ca3af; display: block; text-align: right;">引用自：<a href="https://mrjamie.cc/2026/03/16/get-to-know-yourself/" target="_blank" style="color: inherit; text-decoration: underline; font-size: inherit;">林之晨〈認識你自己〉</a></span>
           </p>
           <img src="../assets/visual/world2.png" alt="">
           <!-- <img src="../assets/visual/friend.png" alt=""> -->
@@ -286,7 +286,7 @@ onUnmounted(() => {
                     </svg>
                     <div>
                         <span class="font-bold">活動地點：</span>
-                        <p>台北市社會創新實驗中心 203 教室</p>
+                        <p><a href="https://maps.app.goo.gl/sSEgmMqdNz5tH7QB9" target="_blank" style="color: inherit; font-size: inherit; text-decoration: underline;">台北市社會創新實驗中心 203 教室</a><br>近忠孝復興捷運站</p>
                     </div>
                 </li>
                 <li>

@@ -123,11 +123,10 @@ onUnmounted(() => {
         </section>
         <section id="name" class="zone2">
           <h2 class="zone_title">為什麼叫「小野獸工作坊」？</h2>
-          <p>台灣大哥大總經理林之晨，被譽為電信業最年輕的總經理，<br>
-            一手創辦的 AppWorks 如今估值數百億美元。<br>
+          <p>台灣大哥大總經理林之晨，被譽為電信業最年輕的總經理，一手創辦的 AppWorks 如今估值數百億美元。<br>
             然而，他給學生的建議卻不是「好好讀書、考高分」，而是<br><br>
 
-            <span style="font-weight: 700; font-style: italic; font-size: 1.8rem;">「找到你內心的小野獸」</span><br><br>
+            <span style="font-weight: 700; font-style: italic; font-size: 1.5rem;">「找到你內心的小野獸」</span><br><br>
 
             國小到高中的 12 年，我們本能的以為只要得高分就是成功、就會快樂。<br><br>
 
@@ -136,10 +135,9 @@ onUnmounted(() => {
             世界上還有太多有趣、有用的知識，在學校根本不會接觸到！<br><br>
 
             從來沒人教過我們怎麼認識自己內心那頭「小野獸」：<br>
-            什麼事會讓你整個人發亮？什麼事你光用聽的就想打哈欠？<br>
-            為什麼有些事你三分鐘熱度，有些事卻怎麼做都不膩？<br><br>
+            什麼事會讓你整個人發亮？什麼事你光用聽的就想打哈欠？為什麼有些事你三分鐘熱度，有些事卻怎麼做都不膩？<br><br>
 
-            <span style="font-weight: 700; font-style: italic; font-size: 1.8rem;">這些問題的答案，將決定你未來過得快不快樂。</span><br><br>
+            <span style="font-weight: 700; font-style: italic; font-size: 1.5rem;">這些問題的答案，將決定你未來過得快不快樂。</span><br><br>
 
             <span style="font-size: 0.85rem; color: #9ca3af; display: block; text-align: right;">引用自：<a href="https://mrjamie.cc/2026/03/16/get-to-know-yourself/" target="_blank" style="color: inherit; text-decoration: underline; font-size: inherit;">林之晨〈認識你自己〉</a></span>
           </p>

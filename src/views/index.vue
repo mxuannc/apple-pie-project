@@ -5,7 +5,7 @@ const activeIndex = ref('1')
 const isMobile = ref(false);
 const isPad = ref(false);
 const dialogVisible = ref(false);
-const tips = ref('品恩 / Passion Project 教案設計師');
+const tips = ref('品恩 / 課程設計師');
 const dialogWidth = ref(500);
 const people = ref('pinun');
 
@@ -345,14 +345,14 @@ onUnmounted(() => {
                 <img src="../assets/visual/pinun.jpg" alt="">
               </div>
               <div class="people_intro">
-                <h3><span>黃品恩</span><br>Passion Project 課程設計師</h3>
+                <h3><span>黃品恩</span><br>課程設計師</h3>
                 <p>嗨我是品恩！一個喜歡故事、喜歡溫暖、喜歡教育的女孩。從國中開始就很關注教育創新，尤其希望能改變傳統填鴨考試導向的教育體制...
                   <span
                     class="peple_more"
                     @click="
                             dialogVisible = true;
                             people = 'pinun';
-                            tips = '品恩 / Passion Project 課程設計師'
+                            tips = '品恩 / 課程設計師'
                             "
                   >展開看更多</span>
                 </p>
@@ -364,7 +364,7 @@ onUnmounted(() => {
               </div>
               <div class="people_intro">
                 <h3><span>孟璇</span><br>工作坊帶領者</h3>
-                <p>北一女人文社會資優班、臺大心理系畢業。這一路走來，很幸運的是，我很早就發現了自己對人文議題的熱情，也一直學得積極又投入。但在當了五年家教老師後，我看見太多孩子明明不喜歡考試、對體制內的學科內容提不起興趣，卻不知道該如何打破這種渾渾噩噩的現狀...
+                <p>北一女人文社會資優班、臺大心理系畢業。這一路走來，很幸運的是，我很早就發現了自己對人文議題的熱情，也一直學得積極又投入。但在當了五年家教老師後，我看見太多孩子...
                   <span
                     class="peple_more"
                     @click="
@@ -426,7 +426,9 @@ onUnmounted(() => {
       </ul>
     </div>
     <div v-else style="font-size: 0.9rem;">
-      北一女人文社會資優班、臺大心理系畢業。這一路走來，很幸運的是，我很早就發現了自己對人文議題的熱情，也一直學得積極又投入。但在當了五年家教老師後，我看見太多孩子明明不喜歡考試、對體制內的學科內容提不起興趣，卻不知道該如何打破這種渾渾噩噩的現狀。<br><br>
+      北一女人文社會資優班、臺大心理系畢業。這一路走來，很幸運的是，我很早就發現了自己對人文議題的熱情，也一直學得積極又投入。<br><br>
+      
+      但在當了五年家教老師後，我看見太多孩子明明不喜歡考試、對體制內的學科內容提不起興趣，卻不知道該如何打破這種渾渾噩噩的現狀。<br><br>
 
       我相信每個人心裡都有屬於自己的熱情所在，只要給自己一個機會、透過一點引導，就能找到自己眼神裡的光。如果台灣的教育無法為學生做到這件事，那就由我們來做。<br><br>
 

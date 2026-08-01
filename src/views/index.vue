@@ -284,7 +284,7 @@ onUnmounted(() => {
                     </svg>
                     <div>
                         <span class="font-bold">活動地點：</span>
-                        <p><a href="https://maps.app.goo.gl/sSEgmMqdNz5tH7QB9" target="_blank" style="color: inherit; font-size: inherit; text-decoration: underline;">社會創新實驗中心 203 教室</a><br>近台北市忠孝復興捷運站</p>
+                        <p style="color: #ffffff;"><a href="https://maps.app.goo.gl/sSEgmMqdNz5tH7QB9" target="_blank" style="color: inherit; font-size: inherit; text-decoration: underline;">社會創新實驗中心 203 教室</a><br>近台北市忠孝復興捷運站</p>
                     </div>
                 </li>
                 <li>

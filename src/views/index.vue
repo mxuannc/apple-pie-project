@@ -61,7 +61,7 @@ onUnmounted(() => {
 
         <!-- Desktop Nav -->
         <template v-if="!isMobile && !isPad">
-          <el-menu-item index="1"><a href="#about" class="nav-link">關於計畫</a></el-menu-item>
+          <el-menu-item index="1"><a href="#about" class="nav-link">關於工作坊</a></el-menu-item>
           <el-menu-item index="2"><a href="#process" class="nav-link">活動流程</a></el-menu-item>
           <el-menu-item index="3"><a href="#why" class="nav-link">為什麼參加</a></el-menu-item>
           <el-menu-item index="4"><a href="#registration" class="nav-link">報名資訊</a></el-menu-item>
@@ -77,7 +77,7 @@ onUnmounted(() => {
 
         <div class="menu-list">
           <ul>
-            <li><a href="#about" @click="closeMenu()">關於計畫</a></li>
+            <li><a href="#about" @click="closeMenu()">關於工作坊</a></li>
             <li><a href="#name" @click="closeMenu()">計畫緣起</a></li>
             <li><a href="#process" @click="closeMenu()">活動流程</a></li>
             <li><a href="#why" @click="closeMenu()">為什麼參加</a></li>

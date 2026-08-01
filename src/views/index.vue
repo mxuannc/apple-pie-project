@@ -251,7 +251,7 @@ onUnmounted(() => {
           <h2 class="zone_title">報名資訊</h2>
           <div class="regist">
             <div class="regist_left">
-              <h3>營隊資訊</h3>
+              <h3>工作坊資訊</h3>
               <ul>
                 <li>
                   <svg fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
@@ -285,7 +285,7 @@ onUnmounted(() => {
                         <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"></path>
                     </svg>
                     <div>
-                        <span class="font-bold">營隊費用：</span>
+                        <span class="font-bold">課程費用：</span>
                         <p>3600 元（含第三天午餐、場地費與課程教材，不提供住宿）<br><span style="color: #c45656; display: block; margin: 10px 0;">＊若為清寒家庭，提供相關證明即可全額免費參加。</span></p>
                     </div>
                 </li>
@@ -345,14 +345,14 @@ onUnmounted(() => {
                 <img src="../assets/visual/pinun.jpg" alt="">
               </div>
               <div class="people_intro">
-                <h3><span>黃品恩</span><br>Passion Project 課程發起人</h3>
+                <h3><span>黃品恩</span><br>Passion Project 課程設計師</h3>
                 <p>嗨我是品恩！一個喜歡故事、喜歡溫暖、喜歡教育的女孩。從國中開始就很關注教育創新，尤其希望能改變傳統填鴨考試導向的教育體制...
                   <span
                     class="peple_more"
                     @click="
                             dialogVisible = true;
                             people = 'pinun';
-                            tips = '品恩 / Passion Project 課程發起人'
+                            tips = '品恩 / Passion Project 課程設計師'
                             "
                   >展開看更多</span>
                 </p>
@@ -363,14 +363,14 @@ onUnmounted(() => {
                 <img src="../assets/visual/yoting.jpg" alt="">
               </div>
               <div class="people_intro">
-                <h3><span>劉宥廷</span><br>小野獸工作坊 營隊PM</h3>
+                <h3><span>劉宥廷</span><br>小野獸工作坊PM</h3>
                 <p>高中升上竹科實中之後，突然發現自己在學的東西在未來幾乎用不到，讓我從國中時的校排一，變成在高中時完全不想讀書的人...
                   <span
                     class="peple_more"
                     @click="
                             dialogVisible = true;
                             people = 'yoting';
-                            tips = '宥廷 / 小野獸工作坊 營隊PM'
+                            tips = '宥廷 / 小野獸工作坊 PM'
                             "
                   >展開看更多</span>
                 </p>

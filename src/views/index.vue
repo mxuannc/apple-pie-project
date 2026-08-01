@@ -860,7 +860,7 @@ input#menu {
   transform: translateX(55%) ;
   bottom: 80px;
   margin-top: 1rem;
-  width: 40%;
+  width: 20%;
   z-index: 2;
 }
 
@@ -1213,7 +1213,7 @@ input#menu {
 @media (max-width: 1385px) {
 
   .zone2 img {
-    width: 50%;
+    width: 25%;
   }
 
   .timeline{
@@ -1292,7 +1292,7 @@ input#menu {
   }
 
   .zone2 img {
-    width: 70%;
+    width: 35%;
   }
 
   .zone3 h4{

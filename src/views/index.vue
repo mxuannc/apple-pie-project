@@ -403,6 +403,7 @@ onUnmounted(() => {
             <img src="/src/assets/visual/logo.svg" alt="applepie logo" class="logo" />
             <span class="logoText">小野獸工作坊</span>
             <p>三天找到屬於你的 Passion Project</p>
+            <p style="width: 100%; font-size: 0.9rem;">Email：mxuannc@gmail.com<br>IG：<a href="https://www.instagram.com/littlebeast_studio" target="_blank" style="color: inherit; font-size: inherit; text-decoration: underline;">@littlebeast_studio</a></p>
           </div>
           <p>© 2026 小野獸工作坊. All rights reserved.</p>
         </div>
@@ -1389,7 +1390,7 @@ input#menu {
   }
 
   .zone2 {
-    padding-bottom: 9rem;
+    padding-bottom: 16rem;
   }
 
   .zone3 {

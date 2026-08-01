@@ -5,7 +5,7 @@ const activeIndex = ref('1')
 const isMobile = ref(false);
 const isPad = ref(false);
 const dialogVisible = ref(false);
-const tips = ref('品恩 / Passion Project 課程發起人');
+const tips = ref('品恩 / Passion Project 教案設計師');
 const dialogWidth = ref(500);
 const people = ref('pinun');
 
@@ -88,7 +88,7 @@ onUnmounted(() => {
       </nav>
       <section class="declaration">
         <h1>小野獸工作坊</h1>
-        <h4>兩天找到屬於你的 <br v-if="isMobile">Passion Project</h4>
+        <h4>三天找到屬於你的 <br v-if="isMobile">Passion Project</h4>
         <h5>"在迷惘的人生中，<br v-if="isMobile">至少要為一件熱情的事而行動。"</h5>
         <a href="#registration" class="btn">
           <svg height="18" width="18" viewBox="0 0 24 24" data-name="Layer 1" id="Layer_1" class="sparkle">
@@ -143,7 +143,7 @@ onUnmounted(() => {
             我們相信，找到熱情，不是一瞬間的靈光，<br>
             而是透過探索與行動，一步步累積而來。<br><br>
 
-            在這兩天的時間裡，<br>
+            在這三天的時間裡，<br>
             我們會陪著你從「自我探索」出發，<br>
             找到你喜歡的、關心的、想學的、擅長的事，<br>
             幫助你重新認識自己。<br><br>
@@ -309,7 +309,7 @@ onUnmounted(() => {
                   </div>
                   <div>
                       <span class="font-bold">填寫報名表單：</span>
-                      <p>建議預留30分鐘填寫，表單將於6/6（五）截止！</p>
+                      <p>建議預留 15 分鐘填寫，表單將於8/16（日）截止！</p>
                   </div>
                 </li>
                 <li>
@@ -327,7 +327,7 @@ onUnmounted(() => {
                   </div>
                   <div>
                       <span class="font-bold">錄取通知：</span>
-                      <p>我們將會在6/16（一）寄送錄取、備取通知信。</p>
+                      <p>我們將會在8/17（一）寄送錄取、備取通知信。</p>
                   </div>
                 </li>
                 <li>
@@ -394,7 +394,7 @@ onUnmounted(() => {
 
             這趟旅程，不需要你已經準備好，<br v-if="!isMobile">
             只需要你願意，在混亂中暫停一下腳步，<br v-if="!isMobile">
-            用兩天的時間，開始這件小小但重要的事。<br><br>
+            用三天的時間，開始這件小小但重要的事。<br><br>
 
             不是為了分數、不是為了升學，而是為了自己。<br><br>
             因為，在迷惘的人生中，我們至少要為一件熱情的事而行動。
@@ -404,9 +404,9 @@ onUnmounted(() => {
           <div class="footer_logo">
             <img src="/src/assets/visual/logo.svg" alt="applepie logo" class="logo" />
             <span class="logoText">小野獸工作坊</span>
-            <p>兩天找到屬於你的 Passion Project</p>
+            <p>三天找到屬於你的 Passion Project</p>
           </div>
-          <p>© 2025 小野獸工作坊. All rights reserved.</p>
+          <p>© 2026 小野獸工作坊. All rights reserved.</p>
         </div>
       </section>
     </el-container>

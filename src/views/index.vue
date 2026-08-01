@@ -316,7 +316,7 @@ onUnmounted(() => {
                   </div>
                   <div>
                       <span class="font-bold">填寫報名表單：</span>
-                      <p>建議預留 15 分鐘填寫，表單將於 8/16（日）截止！</p>
+                      <p>建議預留 10 分鐘填寫，表單將於 8/16（日）截止！</p>
                   </div>
                 </li>
                 <li>
@@ -324,8 +324,8 @@ onUnmounted(() => {
                     <span>2</span>
                   </div>
                   <div>
-                      <span class="font-bold">錄取通知：</span>
-                      <p>我們將會在 8/17（一）寄送錄取、備取通知信。</p>
+                      <span class="font-bold">匯款：</span>
+                      <p>本次報名需要先匯款，我們收到後，會寄錄取通知信～</p>
                   </div>
                 </li>
                 <li>
@@ -334,7 +334,7 @@ onUnmounted(() => {
                   </div>
                   <div>
                       <span class="font-bold">完成報名：</span>
-                      <p>收到錄取通知信後，需要在 24 小時內完成匯款，即完成報名。</p>
+                      <p>收到錄取通知信後，就報名成功囉！工作坊開始前，我們會再寄送行前通知，請記得留意信箱～</p>
                   </div>
                 </li>
                 <li>

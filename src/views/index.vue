@@ -317,8 +317,8 @@ onUnmounted(() => {
                     <span>2</span>
                   </div>
                   <div>
-                      <span class="font-bold">初步面談：</span>
-                      <p>我們可能會在 6/7（六）至 6/12（四）之間與部分學員安排約 15 分鐘的聊聊時間，了解你對營隊的期待。</p>
+                      <span class="font-bold">錄取通知：</span>
+                      <p>我們將會在8/17（一）寄送錄取、備取通知信。</p>
                   </div>
                 </li>
                 <li>
@@ -326,21 +326,12 @@ onUnmounted(() => {
                     <span>3</span>
                   </div>
                   <div>
-                      <span class="font-bold">錄取通知：</span>
-                      <p>我們將會在8/17（一）寄送錄取、備取通知信。</p>
-                  </div>
-                </li>
-                <li>
-                  <div class="sNumber">
-                    <span>4</span>
-                  </div>
-                  <div>
                       <span class="font-bold">完成報名：</span>
                       <p>收到錄取通知信後，需要在24小時內完成匯款，即完成報名。</p>
                   </div>
                 </li>
                 <li>
-                  <a href="https://forms.gle/18fFurKQJTq5vi7h6" target="_blank">前往報名表單</a>
+                  <a href="https://forms.gle/agGso1FAsWpwovvq9" target="_blank">前往報名表單</a>
                 </li>
               </ul>
             </div>

@@ -403,7 +403,7 @@ onUnmounted(() => {
             <img src="/src/assets/visual/logo.svg" alt="applepie logo" class="logo" />
             <span class="logoText">蘋果派計畫</span>
             <p>三天找到屬於你的 Passion Project</p>
-            <p style="width: 100%; font-size: 0.9rem;">Email：mxuannc@gmail.com<br>IG：<a href="https://www.instagram.com/apple-pie-project" target="_blank" style="color: inherit; font-size: inherit; text-decoration: underline;">@apple_pie_project</a></p>
+            <p style="width: 100%; font-size: 0.9rem;">Email：mxuannc@gmail.com<br>IG：<a href="https://www.instagram.com/apple_pie_project" target="_blank" style="color: inherit; font-size: inherit; text-decoration: underline;">@apple_pie_project</a></p>
           </div>
           <p>© 2026 蘋果派計畫. All rights reserved.</p>
         </div>

@@ -122,8 +122,8 @@ onUnmounted(() => {
           </div>
         </section>
         <section id="name" class="zone2">
-          <h2 class="zone_title">為什麼叫「蘋果派計畫」？</h2>
-          <p>台灣電信業獲利王「台灣大哥大總經理林之晨」為電信業最年輕的總經理，任內成長台灣大市佔率至 32%、營收增加 70%，重返獲利王寶座，此外，他一手創辦的 AppWorks 創業加速器培養六百多家新創公司，全體加總估值數百億美元。<br>
+          <h2 class="zone_title">為什麼認識自己很重要？</h2>
+          <p>台灣大哥大總經理、AppWorks 創辦人林之晨，任內帶領台灣大哥大成為電信業獲利王，也創辦了培育數百家新創公司的 AppWorks。<br>
             然而，<span style="font-weight: 700;">他給學生的建議卻不是「好好讀書、考高分」</span>，而是<br><br>
 
             <span style="font-weight: 700; font-style: italic; font-size: 1.5rem;">「找到你內心的小野獸」</span><br><br>

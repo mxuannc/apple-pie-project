@@ -56,7 +56,7 @@ onUnmounted(() => {
         <!-- Logo -->
         <el-menu-item index="0" class="menu-logo">
           <img src="/src/assets/visual/logo.svg" alt="applepie logo" class="logo" />
-          <span class="logoText">小野獸工作坊</span>
+          <span class="logoText">蘋果派計畫</span>
         </el-menu-item>
 
         <!-- Desktop Nav -->
@@ -87,7 +87,7 @@ onUnmounted(() => {
         </div>
       </nav>
       <section class="declaration">
-        <h1>小野獸工作坊</h1>
+        <h1>蘋果派計畫</h1>
         <h4>三天找到屬於你的 <br v-if="isMobile">Passion Project</h4>
         <h5>"在迷惘的人生中，<br v-if="isMobile">至少要為一件熱情的事而行動"</h5>
         <a href="#registration" class="btn">
@@ -97,7 +97,7 @@ onUnmounted(() => {
           <span class="text">立即報名</span>
         </a>
         <section id="about" class="zone1">
-          <h2 class="zone_title">小野獸工作坊是什麼？</h2>
+          <h2 class="zone_title">蘋果派計畫是什麼？</h2>
           <div class="highschool">
             <h3>身為高中生的你，<br v-if="isMobile">是否也有這樣的感覺——</h3>
             <p>「在學校學了很多，卻不知道學這些對未來有什麼用？」</p>
@@ -116,13 +116,13 @@ onUnmounted(() => {
                 近六成的人後悔當初選的科系。<br>
                 因為在選擇之前，<br>
                 多數人從來沒有機會好好認識自己。<br><br>
-                <span style="font-weight: 700;">而「小野獸工作坊」，正是為了改變這件事。</span>
+                <span style="font-weight: 700;">而「蘋果派計畫」，正是為了改變這件事。</span>
               </p>
             </div>
           </div>
         </section>
         <section id="name" class="zone2">
-          <h2 class="zone_title">為什麼叫「小野獸工作坊」？</h2>
+          <h2 class="zone_title">為什麼叫「蘋果派計畫」？</h2>
           <p>台灣電信業獲利王「台灣大哥大總經理林之晨」為電信業最年輕的總經理，任內成長台灣大市佔率至 32%、營收增加 70%，重返獲利王寶座，此外，他一手創辦的 AppWorks 創業加速器培養六百多家新創公司，全體加總估值數百億美元。<br>
             然而，<span style="font-weight: 700;">他給學生的建議卻不是「好好讀書、考高分」</span>，而是<br><br>
 
@@ -145,7 +145,7 @@ onUnmounted(() => {
           <!-- <img src="../assets/visual/friend.png" alt=""> -->
         </section>
         <section id="process" class="zone3">
-          <h2 class="zone_title">「小野獸工作坊」會如何進行？</h2>
+          <h2 class="zone_title">「蘋果派計畫」會如何進行？</h2>
           <p>
             我們相信，找到熱情，不是一瞬間的靈光，<br>
             而是透過探索與行動，一步步累積而來。<br><br>
@@ -208,10 +208,10 @@ onUnmounted(() => {
             <img src="../assets/visual/step4.jpg" alt="">
             </div>
           </div>
-          <h4>「小野獸工作坊」陪你從迷惘出發，<br v-if="isPad">找到熱情，踏出屬於自己的第一步。 </h4>
+          <h4>「蘋果派計畫」陪你從迷惘出發，<br v-if="isPad">找到熱情，踏出屬於自己的第一步。 </h4>
         </section>
         <section id="why" class="zone4">
-          <h2 class="zone_title">參加「小野獸工作坊」的理由</h2>
+          <h2 class="zone_title">參加「蘋果派計畫」的理由</h2>
           <ul>
             <li>
                 <h1>1</h1>
@@ -388,7 +388,7 @@ onUnmounted(() => {
         <section id="conclusion" class="zone_last">
           <p>如果你也曾經迷惘，不知道自己想要什麼；<br v-if="!isMobile">
             如果你也渴望，為真正熱愛的事踏出一步——<br v-if="!isMobile">
-            那麼，「小野獸工作坊」就是為你設計的探索營。<br><br>
+            那麼，「蘋果派計畫」就是為你設計的探索營。<br><br>
 
             這趟旅程，不需要你已經準備好，<br v-if="!isMobile">
             只需要你願意，在混亂中暫停一下腳步，<br v-if="!isMobile">
@@ -401,11 +401,11 @@ onUnmounted(() => {
         <div class="footer">
           <div class="footer_logo">
             <img src="/src/assets/visual/logo.svg" alt="applepie logo" class="logo" />
-            <span class="logoText">小野獸工作坊</span>
+            <span class="logoText">蘋果派計畫</span>
             <p>三天找到屬於你的 Passion Project</p>
             <p style="width: 100%; font-size: 0.9rem;">Email：mxuannc@gmail.com<br>IG：<a href="https://www.instagram.com/littlebeast_studio" target="_blank" style="color: inherit; font-size: inherit; text-decoration: underline;">@littlebeast_studio</a></p>
           </div>
-          <p>© 2026 小野獸工作坊. All rights reserved.</p>
+          <p>© 2026 蘋果派計畫. All rights reserved.</p>
         </div>
       </section>
     </el-container>

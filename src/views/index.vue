@@ -848,7 +848,7 @@ input#menu {
 }
 
 .zone2 p {
-  margin: 0 auto 2rem;
+  margin: 0 auto 4rem;
   width: fit-content;
   text-align: center;
 }

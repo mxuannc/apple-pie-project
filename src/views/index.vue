@@ -341,6 +341,12 @@ onUnmounted(() => {
                   <a href="https://forms.gle/agGso1FAsWpwovvq9" target="_blank">前往報名表單</a>
                 </li>
               </ul>
+
+              <div class="future-batch">
+                <h3>未來更多場次</h3>
+                <p>如果你這次時間上剛好不方便參與，你可以加入蘋果派 LINE 官方社群，我們未來會優先在裡面公布最新場次＆最新消息！</p>
+                <a href="https://line.me/ti/g2/H3ECnP4lslr8swSvEm3IxY7mfSwcIzCDsOfQqQ" target="_blank">加入 LINE 社群</a>
+              </div>
             </div>
           </div>
         </section>
@@ -435,7 +441,7 @@ onUnmounted(() => {
     </div>
     <div v-else style="font-size: 0.9rem;">
       北一女人文社會資優班、臺大心理系畢業。一路走來很幸運的是，我很早就發現了自己的熱情所在，也一直學得積極又投入。<br><br>
-      
+
       但在當了五年家教老師後，我看見太多孩子明明不喜歡考試、對體制內的學科內容提不起興趣，卻不知道該如何打破這種渾渾噩噩的現狀。<br><br>
 
       我相信每個人心裡都有屬於自己的熱情所在，只要給自己一個機會、透過一點引導，就能找到自己眼神裡的光。如果台灣的教育無法為學生做到這件事，那就由我們來做。<br><br>
@@ -1080,6 +1086,12 @@ input#menu {
   display: flex;
   margin-top: 0.4rem;
   margin-right: 1rem;
+}
+
+.future-batch {
+  margin-top: 2rem;
+  padding-top: 2rem;
+  border-top: 1px solid #e5d9c5;
 }
 
 /* 成員介紹 */

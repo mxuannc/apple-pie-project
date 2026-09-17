@@ -1074,6 +1074,10 @@ input#menu {
   box-shadow: 0 4px 12px rgba(217, 165, 102, 0.3);
 }
 
+.regist_right > ul > li:last-child {
+  text-align: left;
+}
+
 .sNumber{
   background-color: rgb(217 165 102);
   color: rgb(255 255 255);

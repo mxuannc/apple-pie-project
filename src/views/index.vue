@@ -266,7 +266,7 @@ onUnmounted(() => {
                   </svg>
                   <div>
                       <span class="font-bold">報名條件：</span>
-                      <p>即將升高一～升大一的高中生，不限體制內外。</p>
+                      <p>高一～高三的高中生，不限體制內外。</p>
                   </div>
                 </li>
                 <li>
@@ -275,7 +275,7 @@ onUnmounted(() => {
                     </svg>
                     <div>
                         <span class="font-bold">活動時間：</span>
-                        <p>總共三天，須全程參與<br>2026/8/24（一）13:30 - 17:00<br>2026/8/25（二）13:30 - 17:00<br>2026/8/26（三）09:00 - 17:00</p>
+                        <p>總共三天，須全程參與<br>2026/10/24（六）13:00 - 17:00<br>2026/10/25（日）13:00 - 17:00<br>2026/10/26（一）09:00 - 17:30</p>
                     </div>
                 </li>
                 <li>
@@ -284,7 +284,7 @@ onUnmounted(() => {
                     </svg>
                     <div>
                         <span class="font-bold">活動地點：</span>
-                        <p><a href="https://maps.app.goo.gl/sSEgmMqdNz5tH7QB9" target="_blank">社會創新實驗中心 203 教室</a><br>近台北市忠孝復興捷運站</p>
+                        <p><a href="https://maps.app.goo.gl/4Mf9jV3jhWbpfQgKA" target="_blank">臺北文創大樓 8 樓</a><br>近捷運國父紀念館站</p>
                     </div>
                 </li>
                 <li>
@@ -338,7 +338,7 @@ onUnmounted(() => {
                   </div>
                 </li>
                 <li>
-                  <a href="https://forms.gle/agGso1FAsWpwovvq9" target="_blank">前往報名表單</a>
+                  <a href="https://forms.gle/cm2sgqGhmviHKVrn7" target="_blank">前往報名表單</a>
                 </li>
               </ul>
 

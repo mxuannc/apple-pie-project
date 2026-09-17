@@ -1068,6 +1068,15 @@ input#menu {
   border-radius: 50px;
 }
 
+.regist_right > ul > li:last-child {
+  display: block;
+  text-align: left;
+}
+
+.regist_right > ul > li:last-child a {
+  display: inline;
+}
+
 .regist a:hover{
   background: #C89355;
   transform: translateY(-2px);

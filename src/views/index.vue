@@ -316,7 +316,7 @@ onUnmounted(() => {
                   </div>
                   <div>
                       <span class="font-bold">填寫報名表單：</span>
-                      <p>建議預留 10 分鐘填寫，表單將於 8/14（五）截止！</p>
+                      <p>建議預留 10 分鐘填寫，報名採額滿為止！</p>
                   </div>
                 </li>
                 <li>

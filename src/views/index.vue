@@ -435,7 +435,7 @@ onUnmounted(() => {
         <li>創辦《Salute 餅乾杯》</li>
         <li>發起《UWY全球青年故事分享計畫》</li>
         <li>擔任《換日線》投書作家</li>
-        <li>台大設計思考教練</li>
+        <li>臺大設計思考教練</li>
         <li>錄取 2024 Jamie's Gapyear Program</li>
       </ul>
     </div>

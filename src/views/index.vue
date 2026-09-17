@@ -448,7 +448,7 @@ onUnmounted(() => {
 
       相關經歷
       <ul>
-        <li>台大設計思考教練</li>
+        <li>臺大設計思考教練</li>
         <li>修畢創意創業學程第 16 屆</li>
         <li>錄取 2024 Jamie's Gap Year Program</li>
         <li>曾任 Sort AI 策略行銷</li>

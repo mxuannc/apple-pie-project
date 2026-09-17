@@ -1035,6 +1035,12 @@ input#menu {
   text-align: left;
 }
 
+.regist_right > ul > li:last-child {
+  display: block;
+  align-self: flex-start;
+  text-align: left;
+}
+
 .regist svg{
   width: 1.25rem;
   min-width: 20px;

@@ -1068,6 +1068,14 @@ input#menu {
   border-radius: 50px;
 }
 
+.regist_right > ul > li:last-child {
+  display: block;
+}
+
+.regist_right > ul > li:last-child a {
+  margin: 1rem 0;
+}
+
 .regist a:hover{
   background: #C89355;
   transform: translateY(-2px);
